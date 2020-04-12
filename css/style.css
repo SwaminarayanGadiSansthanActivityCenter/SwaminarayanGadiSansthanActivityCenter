@@ -14,7 +14,7 @@ body {
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background: #20181f;
+  background: #ffffff;
 }
 
 html{
@@ -89,7 +89,7 @@ h2{
 
 h3{
 	font-size: 24px;
-	color: #f8e8ee;
+	color: #b92763;
 }
 
 h4{
